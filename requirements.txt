@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+Python Version: 3.7+
+
+🧠 Model Used:
+- Linear Regression 
